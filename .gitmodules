@@ -1,0 +1,4 @@
+[submodule "bmya/odoo-bmya"]
+	path = bmya/odoo-bmya
+	url = git@github.com:bmya/odoo-bmya.git
+	branch = 14.0
