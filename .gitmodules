@@ -2,3 +2,8 @@
 	path = bmya/odoo-bmya
 	url = git@github.com:bmya/odoo-bmya.git
 	branch = 14.0
+
+[submodule "bmya/remu"]
+	path = bmya/remu
+	url = git@github.com:bmya/remu.git
+	branch = 14.0
